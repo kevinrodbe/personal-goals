@@ -1,4 +1,4 @@
 # Videos to Watch
 
-### Testing
-- [ ] [Video Title](http://google.com) (40 mins)
+### Javascript
+- [Build Your Own EventEmitter](https://www.youtube.com/watch?v=X-AhceP6jpA)

@@ -5,38 +5,36 @@ Personal goals made open source.
 
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+# Overarching Goals for 2017:
+1. Start a entrepreneurship
+2. Javascript
+3. Come back to do calisthenics
+4. Launch platform chat
 
-# November 00, 2014
+# Junio 26, 2017
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Javascript.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+- [x] Read about NG 1.x component based
+- [x] Read [promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Things I'll Do This Month: Junio 2017
+- [ ] Finish course of ES6
+- [ ] Finish course of React
+- [ ] Finish course of [Debugging JS](https://frontendmasters.com/courses/debugging-javascript/)
+- [ ] Finish course of [DevTools 2](https://frontendmasters.com/courses/chrome-dev-tools/)
+- [ ] Finish course of [Website Performance](https://frontendmasters.com/courses/website-performance/)
+- [ ] Finish course of [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/)
+- [ ] Finish course of [JS Good Parts](https://frontendmasters.com/courses/good-parts-javascript-web/)
 
 ### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+- [ ] Finish [courses](https://github.com/kevinrodbe/personal-goals/tree/master/content-list/courses.md)
+- [ ] Build a PWA
+- [ ] Finish reading YDKJS
+- [ ] Build a Electron APP
+- [ ] Learn about DOCKER
+- [ ] Learn about VIM
