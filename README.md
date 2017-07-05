@@ -17,7 +17,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: Javascript.
 
 ## Things I'll Do This Week:
-- [ ] Finish course of ES6
 - [ ] Finish course of React
 - [ ] Finish course of [Debugging JS](https://frontendmasters.com/courses/debugging-javascript/)
 
